@@ -1,0 +1,5 @@
+swipe使用方式为 new swipe({
+  dom:dom,
+  event:{left(){},right(){}}
+})
+ 
